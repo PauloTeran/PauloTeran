@@ -4,7 +4,7 @@
 
 [Versión en español](https://github.com/PauloTeran/PauloTeran/blob/master/README.md)
 
-I am a Telecommunications Engineer and Junior Programmer of Android Apps.
+I am a Telecommunications Engineer and Junior Android Apps Developer.
 
 Since I finished my degree I have dedicated myself to the optimization and maintenance of mobile networks.
 
