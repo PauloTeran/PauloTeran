@@ -1,4 +1,4 @@
-![https://github.com/PauloTeran](https://github.com/PauloTeran/PauloTeran/blob/master/pauloteran_github_profile.png)
+![https://github.com/PauloTeran](https://github.com/PauloTeran/PauloTeran/blob/main/pauloteran_github_profile.png)
 
 ## Hola, soy Luis Paulo.
 
