@@ -29,7 +29,7 @@ Soon I will upload repositories and projects to share my experience as a develop
 
 ## Find me at:
 
-[![Youtube](https://img.shields.io/badge/Youtube-@LuisPauloDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/LPauloDev)
+[![Youtube](https://img.shields.io/badge/Youtube-@LPauloDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCvX_PN7S6pX48nf5xVCuivA)
 [![Twitch](https://img.shields.io/badge/Twitch-@LPauloDev-9147FE?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/LPauloDev)
 </br>
 [![Facebook](https://img.shields.io/badge/Facebook-@LPauloDev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/LPauloDev)
