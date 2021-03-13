@@ -37,7 +37,7 @@ Próximamente subiré repositorios y proyectos para compartir mi experiencia com
 [![Instagram](https://img.shields.io/badge/Instagram-@LPauloDev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/lpaulodev)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LPauloDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/LPauloDev)
-[![Web](https://img.shields.io/badge/My_Website-pauloteran.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://pauloteran.com)
+[![Web](https://img.shields.io/badge/Mi_Sitio_Web-pauloteran.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://pauloteran.com)
 
 ## Contáctame:
 
