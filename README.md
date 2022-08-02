@@ -23,7 +23,7 @@ Próximamente subiré repositorios y proyectos para compartir mi experiencia com
 [![Typescript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/react-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
-[![C#](https://img.shields.io/badge/C_Sharp-682876?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![SQLServer](https://img.shields.io/badge/SQL_Server-B71C1C?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
