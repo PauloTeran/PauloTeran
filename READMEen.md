@@ -8,13 +8,13 @@ I am a Telecommunications Engineer and Web Developer.
 
 Since I finished my degree I have dedicated myself to the optimization and maintenance of mobile networks.
 
-It was in 2020 that I decided to turn my career and my life around, and I began to learn Web programming.
+It was in 2020 that I decided to turn my career and my life around, and I began to learn Web Development.
 
 I started studying to learn as much as possible, I spent a lot of time following tutorials and online courses to develop my programming skills.
 
-I managed to carry out my first projects, some of them personal, and others for small companies, now I work for a big Software Development company in my country, Bolivia. My next step will be to share what I have learned to help those who want to start as a Web Programmer.
+I managed to carry out my first projects, some of them personal, and others for small companies, now I work for a big Software Development company in my country, Bolivia. My next step will be to share what I have learned to help those who want to start as a Web Developer.
 
-Soon I will upload repositories and projects to share my experience as a developer.
+Soon I will upload repositories and projects to share my experience as a Developer.
 
 ## Tech Stack:
 [![HTML5](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()

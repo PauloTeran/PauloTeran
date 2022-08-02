@@ -4,17 +4,17 @@
 
 [English version](https://github.com/PauloTeran/PauloTeran/blob/master/READMEen.md)
 
-Soy Ingeniero de Telecomunicaciones y Programador Web.
+Soy Ingeniero de Telecomunicaciones y Desarrollador Web.
 
 Desde que concluí mi carrera me dediqué a la optimización y mantenimiento de redes móviles.
 
-Fué en el año 2020 que decidí darle un giro a mi carrera y a mi vida, y comencé a aprender programación Web.
+Fué en el año 2020 que decidí darle un giro a mi carrera y a mi vida, y comencé a aprender Desarrollo Web.
 
-Me puse a estudiar para aprender tanto como fuese posible, dediqué mucho tiempo a seguir tutoriales y cursos en línea para desarrollar mis habilidades de programador.
+Comencé a estudiar para aprender tanto como fuese posible, dediqué mucho tiempo a seguir tutoriales y cursos en línea para desarrollar mis habilidades de programador.
 
-Logré realizar mis primeros proyectos, algunos de ellos personales, y otros para pequeñas empresas, actualmente me encuentro trabajando para una gran empresa de Desarrollo de Software de mi país, Bolivia. Mi próximo paso será compartir lo aprendido para ayudar a quien quiera iniciarse como Programador Web.
+Logré realizar mis primeros proyectos, algunos de ellos personales, y otros para pequeñas empresas, actualmente me encuentro trabajando para una gran empresa de Desarrollo de Software de mi país, Bolivia. Mi próximo paso será compartir lo aprendido para ayudar a quien quiera iniciarse como Desarrollador Web.
 
-Próximamente subiré repositorios y proyectos para compartir mi experiencia como desarrollador.
+Próximamente subiré repositorios y proyectos para compartir mi experiencia como Desarrollador.
 
 ## Tecnologías:
 [![HTML5](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
