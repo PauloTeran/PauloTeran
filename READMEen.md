@@ -49,7 +49,7 @@ Soon I will upload repositories and projects to share my experience as a Develop
 [![Twitch](https://img.shields.io/badge/Twitch-@LPauloDev-9147FE?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/LPauloDev)
 </br>
 [![Facebook](https://img.shields.io/badge/Facebook-@LPauloDev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/LPauloDev)
-[![Twitter](https://img.shields.io/badge/Twitter-@LPauloDev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/LPauloDev)
+[![Twitter](https://img.shields.io/badge/Twitter-@LPauloDev-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://twitter.com/LPauloDev)
 [![Instagram](https://img.shields.io/badge/Instagram-@LPauloDev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/lpaulodev)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LPauloDev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/LPauloDev)
