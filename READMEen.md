@@ -8,11 +8,11 @@ I am a Telecommunications Engineer and Web Developer.
 
 Since I finished my degree I have dedicated myself to the optimization and maintenance of mobile networks.
 
-It was in 2020 that I decided to turn my career and my life around, and I began to learn Web Development.
+It was in 2020 that I decided to turn my career and my life around, and I began to learn Web and Mobile Development.
 
 I started studying to learn as much as possible, I spent a lot of time following tutorials and online courses to develop my programming skills.
 
-I managed to carry out my first projects, some of them personal, and others for small companies, now I work for a big Software Development company in my country, Bolivia. My next step will be to share what I have learned to help those who want to start as a Web Developer.
+I managed to carry out my first projects, some of them personal, and others for small companies, currently, I'm working remotely from my home country of Bolivia for a international software development company. My next step will be to share what I've learned to help those who want to start as a Web Developer.
 
 Soon I will upload repositories and projects to share my experience as a Developer.
 
@@ -21,10 +21,11 @@ Soon I will upload repositories and projects to share my experience as a Develop
 [![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![Javascript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Typescript](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+[![React Native](https://img.shields.io/badge/react_native-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![React.js](https://img.shields.io/badge/react%2Ejs-61DBFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Vue.js](https://img.shields.io/badge/vue%2Ejs-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=101010)]()
 </br>
-[![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()
+[![C#](https://img.shields.io/badge/C%23-682876?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
 [![.NET](https://img.shields.io/badge/%2ENET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
 </br>
 [![SQLServer](https://img.shields.io/badge/SQL_Server-B71C1C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=101010)]()
